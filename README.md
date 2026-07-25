@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Order Event Service
 
 An event-driven order processing service built with **Java, Spring Boot, and Apache Kafka**.
@@ -116,7 +115,3 @@ Being upfront about what's not built yet, in priority order:
 ## License
 
 MIT — see [LICENSE](LICENSE)
-=======
-# order-event-service
-Event-driven order processing service - Java, Spring boot, Kafka
->>>>>>> origin/main
